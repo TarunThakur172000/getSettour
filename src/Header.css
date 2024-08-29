@@ -1,0 +1,15 @@
+nav{
+    background-color: aliceblue;
+    height: 3vw;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+nav ul a{
+
+}
+.me-auto{
+    
+}
